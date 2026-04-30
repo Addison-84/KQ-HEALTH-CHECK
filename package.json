@@ -1,0 +1,17 @@
+{
+  "name": "kq-health-check",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "lucide-react": "latest",
+    "recharts": "latest",
+    "clsx": "latest",
+    "tailwind-merge": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
